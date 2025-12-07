@@ -22,7 +22,8 @@ In the field, you can bring the same wire connector with you and just “pulse i
 
 ## Ordering from JLCPCB
 You need three files to order an assembled PCB. You need 1) the PCB board gerber file that describes the PCB, 2) the bill of materials (BOM) detailing all the little parts that go on the board, and 3) the Pick and Place file that describes where on the board the robots should place the parts.
-These three files are in the ordering folder on GitHub.
+These three files are in the production files folder on GitHub.
+
 You can place your own order to JLC-PCB and buy five assembled boards for about $100 (pcb, assembly, shipping, and tariffs as of Dec 2025). 
 Here are the rough instructions for ordering your own boards:
 
